@@ -1,0 +1,36 @@
+body{
+    text-align: center;
+    background-color: purple;
+}
+#reproducir{
+ border-bottom: 23px;   
+ padding: 23px;
+ border-radius: 10px;
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.titulo{
+    padding: 33px;
+    background: none;
+    border: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#nota{
+    padding: 33px;
+    background: none;
+    border: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#manos{
+    padding: 33px;
+    background: none;
+    border: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#dj_1{
+width: 20%;
+float: right;
+}
+#dj_2{
+    width: 20%;
+    float: left;
+}
